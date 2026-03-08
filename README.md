@@ -29,8 +29,3 @@ Front-End/ klasörüne gidin.
 
 npm install komutuyla gerekli kütüphaneleri yükleyin.
 ng serve komutuyla projeyi http://localhost:4200 adresinde ayağa kaldırın.
-
-
-git push
-
-Bu kadar! Artık GitHub sayfana girdiğinde çok daha profesyonel bir karşılama ekranı göreceksin. Bundan sonraki adımda, o "Yaklaşan Hedefler" kısmındaki "Veritabanı tablolarının tasarlanması" maddesine başlamaya hazır mısın?
