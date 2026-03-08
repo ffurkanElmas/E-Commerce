@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Secrets (Sakın unutma, .env veya secret.json dosyalarını buraya yaz)
+appsettings.Development.json
+*.env
